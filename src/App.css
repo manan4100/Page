@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 25px 32px;
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* .page{
+  background-color: black;
+} */
+
+.text{
+  color: white;
+}
